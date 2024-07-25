@@ -1,0 +1,20 @@
+.paragraph-class{
+    background-color: lightcoral;
+    font-family: sans-serif;
+    font-size: 32px
+}
+.paragraph-class.cooler{
+
+    font-size: 48px
+}
+
+#blueGuy{
+    font-size: 48px;
+    color: blue;
+}
+
+#greenGuy{
+    background-color: lightgreen;
+    font-size: 40px;
+    font-weight: bold;
+}
